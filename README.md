@@ -7,8 +7,10 @@ Base de fatos sobre o jogo **Fallout Shelter**, escrita para uma IA ler e respon
 | Item | Valor |
 |---|---|
 | Última revisão | 2026-11-25 |
-| Versão do jogo no vault do usuário | **não informada** (preencher com a versão em Configurações do jogo) |
-| Versão mais recente citada pela wiki | 2.7.0, lançada em outubro de 2026 (`confirmado` · wiki: https://fallout.fandom.com/wiki/Fallout_Shelter) |
+| Versão do jogo no vault do usuário | **não informada** (preencher com a versão e a plataforma) |
+| Versão mais recente | 2.7.0, atualizada na Google Play em 6 de outubro de 2026 (`confirmado` · wiki: https://fallout.fandom.com/wiki/Fallout_Shelter; loja oficial: https://play.google.com/store/apps/details?id=com.bethsoft.falloutshelter) |
+
+Steam, Android e iOS estão na linha 2.x; outras plataformas ficaram na 1.13, e algumas mecânicas diferem entre elas. Ver `fontes.md`.
 
 Os fatos `testado` valem para a versão instalada no vault do usuário. Se a versão mudar, revise esses fatos.
 
@@ -31,6 +33,8 @@ Cada fato termina com uma etiqueta no formato:
 
 Exemplo: `confirmado` · fonte: wiki (https://fallout.fandom.com/wiki/Medbay)
 
+Algumas linhas começam com **Evidência**. Elas trazem o que dizem fontes de fora desses três tipos (FAQ da comunidade, fóruns, guias) e **não** mudam o nível do fato. Use-as para dizer "há indícios de que…", nunca para afirmar. O catálogo das fontes e a confiança de cada uma estão em `fontes.md`.
+
 ## Arquivos
 
 | Arquivo | Conteúdo |
@@ -40,6 +44,7 @@ Exemplo: `confirmado` · fonte: wiki (https://fallout.fandom.com/wiki/Medbay)
 | [linhagem.md](linhagem.md) | Herança de atributos, parentesco e o sistema de nomes do usuário |
 | [recursos-e-defesa.md](recursos-e-defesa.md) | Energia, comida, água, invasões, Overseer's Office, Medbay e Science Lab |
 | [erros-comuns.md](erros-comuns.md) | Afirmações que já se mostraram erradas |
+| [fontes.md](fontes.md) | Fontes consultadas e a confiança de cada uma |
 
 ## Nomes de salas
 
