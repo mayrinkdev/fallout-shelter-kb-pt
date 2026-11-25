@@ -24,16 +24,7 @@
 
 ### Produção e estoque por tamanho e nível
 
-| | Simples | Dupla | Tripla |
-|---|---|---|---|
-| Power generator nível 1: produção / estoque | 10 / 50 | 21 / 100 | 44 / 150 |
-| Power generator nível 2 (Power station) | 12 / 75 | 25 / 150 | 52 / 225 |
-| Power generator nível 3 (Power plant) | 15 / 100 | 31 / 200 | 66 / 300 |
-| Nuclear reactor nível 1 | 13 / 200 | 27 / 400 | 57 / 600 |
-| Nuclear reactor nível 2 (Advanced reactor) | 15 / 300 | 32 / 600 | 68 / 900 |
-| Nuclear reactor nível 3 (Super reactor) | 19 / 400 | 40 / 800 | 85 / 1200 |
-
-`confirmado` · fonte: wiki (https://fallout.fandom.com/wiki/Power_generator, https://fallout.fandom.com/wiki/Nuclear_reactor)
+Ver `producao.md`.
 
 ## Comida e água
 
