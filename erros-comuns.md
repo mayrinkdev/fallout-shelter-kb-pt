@@ -10,6 +10,7 @@ Afirmações que já se mostraram erradas ou que conflitam com uma fonte melhor.
 | O sistema de nomes `Barton-M` / `Moore-A` é regra do jogo. | É convenção do usuário. Por padrão, o jogo dá ao menino o sobrenome da mãe e à menina o do pai. | `confirmado` · fonte: wiki (https://fallout.fandom.com/wiki/Vault_dwellers_(Fallout_Shelter)) | `linhagem.md` |
 | O Nuclear reactor é uma troca direta (straight upgrade) da usina, sem demolir. | Não há troca. É preciso destruir a usina e construir o reator no espaço livre. | `testado` · fonte: teste do usuário; concorda com a wiki (https://fallout.fandom.com/wiki/Nuclear_reactor) | `recursos-e-defesa.md` |
 | A ficha do morador mostra pais, filhos e parceiro. | A ficha não mostra parentesco. | `testado` · fonte: teste do usuário | `linhagem.md` |
+| Cada Living room comporta 2, 4 ou 6 moradores, conforme o tamanho. | 2, 4 e 6 é quantos moradores ficam **dentro** da sala. A moradia é bem maior: de 8 (simples, nível 1) a 40 (tripla, nível 3). | `confirmado` · fonte: wiki (https://fallout.fandom.com/wiki/Living_room) | `producao.md` |
 | Os tempos de treino da tabela do usuário valem para qualquer vault. | Valem para as condições do vault do usuário. A felicidade e a quantidade de moradores na sala mudam o tempo. | `confirmado` · fonte: wiki (https://fallout.fandom.com/wiki/Fallout_Shelter_rooms) | `atributos-e-treino.md` |
 
 ## Em observação
