@@ -16,7 +16,12 @@ Afirmações que **ainda não** se provaram erradas, mas que uma fonte contradiz
 
 | Afirmação | Por que está em observação | Detalhes |
 |---|---|---|
-| O teto de Stimpaks e RadAways cresce com o nível da Medbay e do Science lab. | A fórmula da wiki usa só o tamanho da sala, não o nível. | `recursos-e-defesa.md` |
-| A Sorte aumenta o acerto crítico em combate. | Não aparece na seção de Fallout Shelter da wiki. Esse efeito existe em outros jogos da série, o que facilita a confusão. | `atributos-e-treino.md` |
-| A Sorte aumenta as tampinhas ganhas na exploração. | A wiki fala em itens na exploração e em tampinhas ao coletar recursos no vault, não em tampinhas na exploração. | `atributos-e-treino.md` |
-| O Nuclear reactor é uma troca direta da usina. | Testado pelo usuário, mas a wiki descreve o reator como sala construída à parte. | `recursos-e-defesa.md` |
+| O teto de Stimpaks e RadAways cresce com o nível da Medbay e do Science lab. | A fórmula da wiki usa só o tamanho da sala, e o FAQ da comunidade diz que o nível não importa. **Provavelmente errado.** | `recursos-e-defesa.md` |
+| Fundir Medbays dá mais estoque do que salas separadas. | O FAQ diz que conta só a área: 3 simples = 1 tripla = 30. | `recursos-e-defesa.md` |
+| O Nuclear reactor consome água. | Nenhuma fonte cita isso. O FAQ diz que quem consome água são os moradores. **Provavelmente errado.** | `recursos-e-defesa.md` |
+| A Sorte aumenta o acerto crítico em combate. | A wiki não cita. O FAQ diz que, nas quests, a Sorte enche mais rápido o medidor de crítico. **Provavelmente certo para quests.** | `atributos-e-treino.md` |
+| A Sorte aumenta as tampinhas ganhas na exploração. | A wiki não cita. O FAQ diz que sim, em proporção direta. **Provavelmente certo.** | `atributos-e-treino.md` |
+| Inteligência acelera o treino ou a experiência. | O FAQ diz que não (isso vale para Fallout 4, não para Fallout Shelter). **Provavelmente errado.** | `atributos-e-treino.md` |
+| O Nuclear reactor é uma troca direta da usina. | Testado pelo usuário, mas a wiki descreve o reator como sala construída à parte, e nenhuma outra fonte encontrada fala em troca direta. | `recursos-e-defesa.md` |
+
+"Provavelmente" quer dizer que há evidência, mas falta wiki ou tela do jogo. A IA deve repassar a ressalva.
