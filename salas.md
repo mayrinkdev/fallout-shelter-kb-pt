@@ -51,6 +51,8 @@ Todas as salas vão do nível 1 ao 3. — `confirmado` · fonte: wiki (https://f
 | Tipo de sala | Efeito do upgrade | Certeza |
 |---|---|---|
 | Treino | Só aumenta a velocidade de treino. **Não** muda a capacidade. | `testado` · fonte: teste do usuário; `confirmado` · fonte: wiki (https://fallout.fandom.com/wiki/Weight_room) |
-| Produção (energia, comida, água) | Aumenta a produção por ciclo e o armazenamento do recurso. Ver tabela da usina em `recursos-e-defesa.md`. | `confirmado` · fonte: wiki (https://fallout.fandom.com/wiki/Power_generator) |
+| Produção (energia, comida, água) | Aumenta a produção por ciclo e o armazenamento do recurso. Ver `producao.md`. | `confirmado` · fonte: wiki (https://fallout.fandom.com/wiki/Power_generator) |
+| Living room | Aumenta quantos moradores o vault comporta (ex.: simples 8 → 10 → 12). Ver `producao.md`. | `confirmado` · fonte: wiki (https://fallout.fandom.com/wiki/Living_room) |
+| Storage room | Aumenta a capacidade de itens. Ver `producao.md`. | `confirmado` · fonte: wiki (https://fallout.fandom.com/wiki/Storage_room) |
 | Medbay / Science lab | Aumenta a produção. Pela fórmula da wiki, o estoque máximo depende só do tamanho, não do nível (ver `recursos-e-defesa.md`). | produção `confirmado`; estoque por nível `não verificado` na tela |
 | Overseer's office | Nível 2 permite 2 quests ao mesmo tempo; nível 3 permite 3. | `confirmado` · fonte: wiki (https://fallout.fandom.com/wiki/Overseer%27s_office) |
