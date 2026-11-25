@@ -40,6 +40,7 @@ Algumas linhas começam com **Evidência**. Elas trazem o que dizem fontes de fo
 | Arquivo | Conteúdo |
 |---|---|
 | [salas.md](salas.md) | Atributo S.P.E.C.I.A.L. de cada sala, limite de fusão e o que o upgrade muda |
+| [producao.md](producao.md) | Produção, estoque, moradia e tempo de ciclo de cada sala por tamanho e nível |
 | [atributos-e-treino.md](atributos-e-treino.md) | Salas de treino, tabela de tempos e regras de treino |
 | [linhagem.md](linhagem.md) | Herança de atributos, parentesco e o sistema de nomes do usuário |
 | [recursos-e-defesa.md](recursos-e-defesa.md) | Energia, comida, água, invasões, Overseer's Office, Medbay e Science Lab |
