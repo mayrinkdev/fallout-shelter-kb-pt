@@ -29,8 +29,9 @@ Quando parentes se encontram no Living room, aparece a mensagem "Hanging out wit
 
 ## Ficha do morador
 
-- A ficha do morador mostra pais, filhos e parceiro. — `não verificado` (a página da wiki consultada não descreve isso; conferir na tela do jogo)
-  - Evidência contra: em discussões da Steam (2017), jogadores reclamam que o jogo não tem árvore genealógica e recorrem a editores de save para ver o parentesco. Não há fonte recente. · fonte: discussões da Steam (https://steamcommunity.com/app/588430/discussions/), vistas por busca na web; posts não abertos um a um
+- A ficha do morador **não** mostra parentesco (pais, filhos ou parceiro). — `testado` · fonte: teste do usuário
+  - Concorda com relatos na Steam (2017) de que o jogo não tem árvore genealógica e de que jogadores usam editores de save para ver o parentesco. · fonte: discussões da Steam (https://steamcommunity.com/app/588430/discussions/), vistas por busca na web; posts não abertos um a um
+- Por isso o jogo não oferece um jeito direto de consultar o parentesco. O sistema de nomes do usuário (abaixo) existe para suprir essa falta.
 
 ## Sobrenome padrão do jogo
 
