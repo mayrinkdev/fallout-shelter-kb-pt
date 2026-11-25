@@ -19,7 +19,10 @@ Quando parentes se encontram no Living room, aparece a mensagem "Hanging out wit
 
 - O casal precisa ser um homem e uma mulher adultos, no Living room. — `confirmado` · fonte: wiki
 - O filho tem 50% de chance de herdar a "proficiência" (o atributo mais alto) de um dos pais. Se os dois pais tiverem todos os atributos no máximo, a proficiência herdada é sempre Inteligência. — `confirmado` · fonte: wiki
+  - Evidência: o FAQ da comunidade diz que, quando um pai tem atributos empatados no topo, a regra de desempate muda entre a versão 2.x (Steam, Android, iOS) e a 1.13 (outras plataformas). A regra "sempre Inteligência" pode valer só para uma delas. · fonte: FAQ (https://github.com/therabidsquirel/The-Fallout-Shelter-FAQ/wiki/Section-5:-Breeding)
 - Pais com S.P.E.C.I.A.L. no máximo (10) podem gerar filhos com mais pontos distribuídos. A wiki cita 13,3% de chance de um filho "gênio" com 28 pontos. — `confirmado` · fonte: wiki
+  - Evidência: segundo o FAQ, a soma dos atributos dos dois pais (sem contar roupas) precisa ser 122 ou mais para haver chance de filho raro (28 pontos) e 134 ou mais para filho lendário (40 pontos). · fonte: FAQ (https://github.com/therabidsquirel/The-Fallout-Shelter-FAQ/wiki/Section-5:-Breeding)
+- A gravidez dura 3 horas. — `confirmado` · fonte: wiki (https://fallout.fandom.com/wiki/Living_room)
 - Filhos nascem sempre com raridade "Common", mesmo com atributos altos. — `confirmado` · fonte: wiki
 - A criança vira adulta 3 horas depois do nascimento. Antes disso não pode ser colocada em salas. — `confirmado` · fonte: wiki
 - Sem espaço no vault (Living rooms cheios ou limite de 200 moradores), a grávida não dá à luz. — `confirmado` · fonte: wiki
@@ -27,10 +30,12 @@ Quando parentes se encontram no Living room, aparece a mensagem "Hanging out wit
 ## Ficha do morador
 
 - A ficha do morador mostra pais, filhos e parceiro. — `não verificado` (a página da wiki consultada não descreve isso; conferir na tela do jogo)
+  - Evidência contra: em discussões da Steam (2017), jogadores reclamam que o jogo não tem árvore genealógica e recorrem a editores de save para ver o parentesco. Não há fonte recente. · fonte: discussões da Steam (https://steamcommunity.com/app/588430/discussions/), vistas por busca na web; posts não abertos um a um
 
 ## Sobrenome padrão do jogo
 
 - Por padrão, **menino** recebe o sobrenome da **mãe** e **menina** recebe o sobrenome do **pai**. O nome pode ser editado tocando nele na ficha. — `confirmado` · fonte: wiki
+  - Evidência: em fóruns, um jogador relata o contrário (filho com o sobrenome do pai), e outro diz que a regra "sobrenome do genitor do sexo oposto" às vezes falha. · fonte: discussões da Steam (https://steamcommunity.com/app/588430/discussions/), vistas por busca na web; posts não abertos um a um
 
 ## Sistema de nomes do usuário
 
