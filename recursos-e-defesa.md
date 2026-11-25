@@ -16,6 +16,7 @@
 
 - O Nuclear reactor gera mais energia por ciclo e guarda 4 vezes mais energia que o Power generator, mas custa bem mais para construir e melhorar. — `confirmado` · fonte: wiki (https://fallout.fandom.com/wiki/Nuclear_reactor)
 - O Nuclear reactor consome água. — `não verificado` (as páginas da wiki do reator e da usina não citam consumo de nenhum recurso; conferir na tela do jogo)
+  - Evidência contra: o FAQ da comunidade diz que **os moradores** consomem comida e água, e que todas as salas consomem energia, exceto elevadores, salas de energia e Overseer's Office. Não cita nenhuma sala que consuma água. · fonte: FAQ (https://github.com/therabidsquirel/The-Fallout-Shelter-FAQ/wiki/Section-3:-Rooms,-Resources,-and-Storage)
 - O Nuclear reactor aparece como troca direta (straight upgrade) da usina, sem demolir. — `testado` · fonte: teste do usuário
   - **Divergência:** a wiki descreve o reator como uma sala construída à parte, com custo próprio, e não cita conversão da usina (https://fallout.fandom.com/wiki/Nuclear_reactor). Pode ser mudança de versão. Ao responder, mostre as duas informações.
 
@@ -70,7 +71,10 @@
 - O jogo começa com capacidade 5 para Stimpak e 5 para RadAway. — `confirmado` · fonte: wiki (https://fallout.fandom.com/wiki/Fallout_Shelter_rooms)
 - Cada Medbay aumenta o teto de Stimpaks, e cada Science lab o de RadAways, conforme o tamanho: 10 (simples), 20 (dupla), 30 (tripla). — `confirmado` · fonte: wiki (https://fallout.fandom.com/wiki/Medbay, https://fallout.fandom.com/wiki/Science_lab)
 - O teto **cresce com a fusão**. — `confirmado` · fonte: wiki
+  - Evidência: o FAQ explica que o que conta é a **área total**: cada módulo de sala soma 10, fundido ou não. Uma tripla e três simples dão os mesmos 30. Fundir não dá bônus de estoque. · fonte: FAQ (https://github.com/therabidsquirel/The-Fallout-Shelter-FAQ/wiki/Section-3:-Rooms,-Resources,-and-Storage)
 - O teto **cresce com o nível** da sala. — `não verificado`. A fórmula de capacidade da wiki (10 × tamanho) não usa o nível, o que indica que o upgrade **não** muda o teto. Conferir na tela do jogo antes e depois de um upgrade.
+  - Evidência contra: o FAQ diz que, para o estoque de Stimpak e RadAway, "largura (e nível) não importam". · fonte: FAQ (https://github.com/therabidsquirel/The-Fallout-Shelter-FAQ/wiki/Section-3:-Rooms,-Resources,-and-Storage)
+- Para **produzir**, Medbay e Science lab rendem mais como salas duplas do que como triplas. — `confirmado` · fonte: wiki (https://fallout.fandom.com/wiki/Medbay); evidência a favor no FAQ
 
 ### Uso
 
