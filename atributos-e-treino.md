@@ -80,3 +80,14 @@ Os tempos medidos pelo usuário são menores que os tempos base porque incluem b
 | Aumenta a chance de ganhar tampinhas ao coletar recursos das salas | `confirmado` · fonte: wiki (https://fallout.fandom.com/wiki/Luck) |
 | Aumenta as tampinhas ganhas na exploração do Wasteland | `não verificado` (a seção de Fallout Shelter da wiki fala em itens, não em tampinhas) |
 | Aumenta a chance de acerto crítico em combate | `não verificado` (a seção de Fallout Shelter da wiki não cita crítico; esse efeito aparece em outros jogos da série) |
+
+Evidência para as duas linhas acima, segundo o FAQ da comunidade:
+
+- Na exploração, a Sorte define quantas tampinhas o morador acha, e a quantidade cresce em linha reta com a Sorte. · fonte: FAQ (https://github.com/therabidsquirel/The-Fallout-Shelter-FAQ/wiki/Section-10:-The-Wasteland)
+- Nas quests, a Sorte enche mais rápido o medidor de crítico, então os críticos aparecem com mais frequência. A Percepção deixa as setas do minijogo de crítico mais lentas, e a Agilidade não afeta o medidor. · fonte: FAQ (https://github.com/therabidsquirel/The-Fallout-Shelter-FAQ/wiki/Section-20:-Quests)
+- Nas quests, a Sorte **não** muda o loot, que é fixo. · fonte: FAQ (https://github.com/therabidsquirel/The-Fallout-Shelter-FAQ/wiki/Section-20:-Quests)
+
+## O que não acelera o treino
+
+- Segundo o FAQ, Inteligência **não** aumenta a experiência nem reduz o tempo de treino. Só reduzem o tempo: pet de "Training Time", mais moradores na sala e sala de nível maior. — evidência · fonte: FAQ (https://github.com/therabidsquirel/The-Fallout-Shelter-FAQ/wiki/Section-2:-SPECIAL)
+- Roupas podem levar um atributo até 17 (10 + 7 de uma roupa lendária). — evidência · fonte: FAQ (https://github.com/therabidsquirel/The-Fallout-Shelter-FAQ/wiki/Section-2:-SPECIAL)
